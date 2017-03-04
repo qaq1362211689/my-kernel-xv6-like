@@ -1,0 +1,6 @@
+github上面代码与从github下载的代码有差别
+{
+	elf.h文件中prohdr中的offset变量与网上的off不同
+	va			vaddr
+	pa			paddr
+}
