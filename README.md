@@ -1,2 +1,1 @@
-# my-kernel-xv6-like
-a student,who wants to write a kernel 
+Sorry, I think I cannot complete this project now, Operating System is difficult for me temporarily.
